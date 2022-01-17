@@ -1,7 +1,7 @@
-let days = 2; //starting number of days
-let hours = 0; // starting number of hours
-let minutes = 2; // starting number of minutes
-let seconds = 5; // starting number of seconds
+let days = 6; //starting number of days
+let hours = 2; // starting number of hours
+let minutes = 14; // starting number of minutes
+let seconds = 30; // starting number of seconds
 
 // converts all to seconds
 let totalSeconds =
